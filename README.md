@@ -1,20 +1,47 @@
-# Readability
+# CS50 Section 2 - Spreading wings :baby_chick:
+<b>TF:</b> Carter Zenke | <b>Time: </b>Tuesday, 5pm ET, June 29, 2021 | With :sparkling_heart: for those feeling less comfortable.
 
-To start this problem:
+<b>Goals:</b> Welcome to Carter's CS50 Section! This first section will introduce you to your section mates, engage you in discussion about how to complete the week's problem sets, and help you develop your mastery of C's <i>syntax</i> (the structure or "grammar" with which we write C code). Afterwards, you should feel that you've already started making progress towards completing the problem sets for the week.
 
-* Click the green **Code** button and choose **Open with Codespaces**.
-* If this is your first time opening this assignment, click **New codespace** and then, if prompted, **Create codespace**.
-* If you have opened this assignment before, click **main**.
+<b>Resources:</b> This repository offers several programs that you will modify during section, serving both as a place for deliberate practice and as a reference as you continue to work on the week's problem sets. In addition to the materials here, you will later have access to the collaborative notes we generate during section.
 
-To submit this problem:
+<b>Before section:</b> Please be sure that you've watched most or all of Lecture 2 - Arrays! No other prior knowledge necessary. 
 
-* In your Codespace, run `submit50 classroom50/readability USERNAME`, replacing `USERNAME` with your GitHub username.
+## Agenda (90 minutes)
+#### Welcome (10 minutes): :smile_cat:
+- <b>Scratch projects celebration!</b> | 5 to 7 minutes
+- <b>Problem set overviews</b> | 5 minutes | TF-led presentation + Q&A
+	- What does Mario ask us to do?
+	- What is the problem at the heart of Cash/Credit? 
+    
+#### Feeling at home in our new environment (10 minutes): :house_with_garden:
+- <b>Your first Codespace</b> | 10 minutes | TF-led demonstration + Q&A
+	- What is a Codespace?
+    - The magic of the terminal 
+    - Codespace quirks (Rebuild any existing Codespaces to patch a bug in submit50)
+ - <b>submit50, check50, and other "command-line" tools</b> | 5 minutes 
 
-After submitting all of Problem Set 2, be sure to also submit the [Problem Set 2 form](https://forms.cs50.io/7a2f0565-80ab-4846-a54a-97cf3ea98d71).
+#### Deliberate problem set practice (50 - 60 minutes):  :wrench:
+- <b>Data types</b> | 10 - 15 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with code in "types.c" and "type_division.c". These programs help us think about:
+	    - How should we store the data we might use to solve Mario, Cash, and Credit?
+	    - How might different ways of storing data influence the results of our program?
+- <b>Conditions</b> | 15 - 20 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with "squirrel_conditions.c"
+		- How should we check the results of a user's input into our program?
+		- How can we build more complex conditional statements, to check if more than one thing is true?
+- <b>Loops</b> | 20 - 25 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with "persistent_squirrel_prompts.c"
+		- What loops might work well when we want to keep prompting the user until we get an input we like?
+	- Engage with "for_loops.c"
+		- What are "for loops", how do we create them, and how can we creatively make them build on each other to produce neat graphics?
 
-Once you have submitted this problem, your score will be available on GitHub after a few minutes. To view your score:
-
-* On this GitHub page, click the **Actions** tab.
-* Under **All workflows**, click the title of the topmost workflow.
-* Click **Autograding** and then **Render results**.
-* Once the autograder is done running, you will see a ✅ next to each check that your submission passed and a ❌ next to each check that your submission did not pass. You may resubmit this assignment as many times as you would like prior to this assignment's deadline.
+#### Forecasting the "week" (10 minutes): :partly_sunny:
+- <b>Problem sets</b> | 5 minutes | TF-led demonstration + Q&A
+	- How much time should I plan to spend on them?
+	- How should I seek help?
+- <b>Additional resources</b> | 5 minutes | TF-led demonstration + Q&A
+	- Doug's shorts
+	- Section notes
+	- man.cs50.io
+	- C syntax references
