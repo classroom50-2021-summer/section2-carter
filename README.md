@@ -8,40 +8,34 @@
 <b>Before section:</b> Please be sure that you've watched most or all of Lecture 2 - Arrays! No other prior knowledge necessary. 
 
 ## Agenda (90 minutes)
-#### Welcome (10 minutes): :smile_cat:
-- <b>Scratch projects celebration!</b> | 5 to 7 minutes
+#### Welcome (10 minutes): :hugs:
+- <b>Check ins with our community</b> | 5 to 7 minutes
+	- How did the first week go?
+	- What were our triumphs? Frustrations?
 - <b>Problem set overviews</b> | 5 minutes | TF-led presentation + Q&A
-	- What does Mario ask us to do?
-	- What is the problem at the heart of Cash/Credit? 
-    
-#### Feeling at home in our new environment (10 minutes): :house_with_garden:
-- <b>Your first Codespace</b> | 10 minutes | TF-led demonstration + Q&A
-	- What is a Codespace?
-    - The magic of the terminal 
-    - Codespace quirks (Rebuild any existing Codespaces to patch a bug in submit50)
- - <b>submit50, check50, and other "command-line" tools</b> | 5 minutes 
+	- What are we doing in Readability?
+	- What are we doing in Caesar and Substitution?
+	- What concepts will help us solve these problems?
 
-#### Deliberate problem set practice (50 - 60 minutes):  :wrench:
-- <b>Data types</b> | 10 - 15 minutes | <i>in 2-3 person groups, with large-group share out</i>
-	- Engage with code in "types.c" and "type_division.c". These programs help us think about:
-	    - How should we store the data we might use to solve Mario, Cash, and Credit?
-	    - How might different ways of storing data influence the results of our program?
-- <b>Conditions</b> | 15 - 20 minutes | <i>in 2-3 person groups, with large-group share out</i>
-	- Engage with "squirrel_conditions.c"
-		- How should we check the results of a user's input into our program?
-		- How can we build more complex conditional statements, to check if more than one thing is true?
-- <b>Loops</b> | 20 - 25 minutes | <i>in 2-3 person groups, with large-group share out</i>
-	- Engage with "persistent_squirrel_prompts.c"
-		- What loops might work well when we want to keep prompting the user until we get an input we like?
-	- Engage with "for_loops.c"
-		- What are "for loops", how do we create them, and how can we creatively make them build on each other to produce neat graphics?
+#### Deliberate problem set practice (60 - 70 minutes): :wrench:
+- <b>Functions (Inputs, Outputs, Return Values)</b> | 20 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with code in "function_definitions.c" and "argv.c". These programs help us think about:
+	    - What does it mean for a function to have an _argument_ and a _return value_?
+	    - How do we get and use arguments we give to our programs at the terminal?
+- <b>Searching strings</b> | 30 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with "haiku_0.c" to "haiku_3.c"
+		- How should we check to see what characters exist in a string?
+		- How this strategy help us make inferences about a text?
+- <b>Scrambling strings</b> | 10 minutes | <i>in 2-3 person groups, with large-group share out</i>
+	- Engage with "scrambled_haiku.c"
+		- How are characters represented in the ASCII format?
+		- How can we use the ASCII format to scramble text, such that it becomes encrypted?
+		- What are the pitfalls we should watch out for when manipulating ASCII values?
 
-#### Forecasting the "week" (10 minutes): :partly_sunny:
+#### Forecasting the "week" (5 minutes): :partly_sunny:
 - <b>Problem sets</b> | 5 minutes | TF-led demonstration + Q&A
 	- How much time should I plan to spend on them?
 	- How should I seek help?
-- <b>Additional resources</b> | 5 minutes | TF-led demonstration + Q&A
-	- Doug's shorts
-	- Section notes
-	- man.cs50.io
-	- C syntax references
+
+#### Open questions (30+ minutes after section): :thinking:
+- <b>Open Q&A with TF and other classmates!</b>
