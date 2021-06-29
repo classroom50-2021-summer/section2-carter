@@ -5,7 +5,9 @@
 
 <b>Resources:</b> This repository offers several programs that you will modify during section, serving both as a place for deliberate practice and as a reference as you continue to work on the week's problem sets. In addition to the materials here, you will later have access to the collaborative notes we generate during section.
 
-<b>Before section:</b> Please be sure that you've watched most or all of Lecture 2 - Arrays! No other prior knowledge necessary. 
+<b>Before section:</b> Please be sure that you've watched most or all of Lecture 2 - Arrays! No other prior knowledge necessary.
+
+<b>If not using codespaces:</b> Use this [sandbox](https://bit.ly/3A9hTCN) with the same files!
 
 ## Agenda (90 minutes)
 #### Welcome (10 minutes): :hugs:
